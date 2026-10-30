@@ -1,4 +1,5 @@
-<img src="./profile-banner.svg" width="100%" alt="Krish Rawal - Frontend & React Native Developer" />
+<img width="3200" height="800" alt="profile-banner" src="https://github.com/user-attachments/assets/a3c789ce-5e2b-475d-8cca-c01bd5a24e72" />
+
 
 
 # 💫 About Me:
