@@ -1,8 +1,13 @@
 <img width="1500" height="400" alt="Krish_Rawal_LinkedIn_Cover" src="https://github.com/user-attachments/assets/e71ad6dc-2f85-43b0-bf37-5b2aec7199b8" />
 
-## Hi there 👋
-# 💫 About Me:
-Hi , I'm Krish Rawal<br><br><br>I'm a passionate Front End Web Developer. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm Krish Rawal 👋
+
+I'm a Frontend & Mobile Developer from Ahmedabad, India. I build fast, responsive web apps with React and TypeScript, and cross-platform mobile apps with React Native and Expo.
+
+- 🔭 Currently building: File-Sharing-App, GujaratLandSurvey, MyTodoApp
+- 🌱 Currently learning: Expo Router, native modules, app performance
+- 📱 I love turning ideas into apps that work on web, Android and iOS
+
 
 
 ## 🌐 Socials:
